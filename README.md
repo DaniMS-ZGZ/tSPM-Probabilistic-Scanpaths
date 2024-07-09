@@ -1,5 +1,5 @@
 # tSPM-Probabilistic-Scanpaths
-Repository for the work "[A Probabilistic Time-Evolving Approach to Scanpath Prediction](https://arxiv.org/abs/2204.09404)"
+Repository for the work "[tSPM-Net: A probabilistic spatio-temporal approach for scanpath prediction](https://graphics.unizar.es/papers/Martin_2024_tSPM.pdf)", accepted to Computers and Graphics, 2024.
 
 ![Teaser](https://github.com/DaniMS-ZGZ/tSPM-Probabilistic-Scanpaths/blob/main/img/teaser.jpg)
 
